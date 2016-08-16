@@ -129,7 +129,7 @@ var rules = {
     "Perhaps I already knew you were ~y.",
     "Why do you tell me you were ~y now?",
   ],
-  "~*x was I ~*y": [
+  "~*x were you ~*y": [
     "What if you were ~y?",
     "Do you think you were ~y?",
     "What would it mean if you were ~y?",
