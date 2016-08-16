@@ -29,7 +29,7 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "GET OUT OF MY ROOM"
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
@@ -44,9 +44,7 @@ var rules = {
     "I am not interested in names",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "APOLOGY NOT ACCEPTED, MOM"
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
@@ -68,9 +66,8 @@ var rules = {
     "Suppose you got ~y soon.",
   ],
     "~*x I need ~*y": [
-    "What would it mean if you got ~y?",
-    "Why do you need ~y?",
-    "Suppose you got ~y soon.",
+    "YOU DON'T NEED ANYTHING",
+    
   ],
   "~*x if ~*y": [
     "Do you really think it's likely that ~y?",
@@ -79,9 +76,7 @@ var rules = {
     "Really--if ~y?",
   ],
   "~*x I dreamt ~*y": [
-    "Really-- ~y",
-    "Have you ever fantasized ~y while you were awake",
-    "Have you dreamt of ~y before?",
+    "DREAMS ARE FOR SLEEPING BOO BOO",
   ],
   "~*x I dream about ~*y": [
     "How do you feel about ~y in reality?",
